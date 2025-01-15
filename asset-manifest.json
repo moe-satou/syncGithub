@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/syncGithub/static/css/main.4fea6ea1.css",
+    "main.js": "/syncGithub/static/js/main.d1315351.js",
+    "static/js/453.c8801ecf.chunk.js": "/syncGithub/static/js/453.c8801ecf.chunk.js",
+    "index.html": "/syncGithub/index.html",
+    "main.4fea6ea1.css.map": "/syncGithub/static/css/main.4fea6ea1.css.map",
+    "main.d1315351.js.map": "/syncGithub/static/js/main.d1315351.js.map",
+    "453.c8801ecf.chunk.js.map": "/syncGithub/static/js/453.c8801ecf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fea6ea1.css",
+    "static/js/main.d1315351.js"
+  ]
+}
