@@ -1,0 +1,46 @@
+.div345 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  background-color: var(--color-black);
+}
+.div346 {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 8px);
+  top: 0px;
+  right: 4px;
+  bottom: 0px;
+  left: 4px;
+  border-radius: var(--br-5xs);
+  background: linear-gradient(180deg, #3c3b3c, #0f0e0f);
+}
+.icon213 {
+  position: absolute;
+  top: calc(50% - 14.04px);
+  left: calc(50% - 9.97px);
+  width: 59.7px;
+  height: 29.7px;
+}
+.icon214 {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: 24px;
+  width: 30px;
+  height: 24.5px;
+}
+.p000008-r00 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  bottom: 8px;
+  left: 0px;
+  width: 160px;
+  height: 80px;
+}

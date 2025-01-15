@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=A-OTF UD Shin Go Pro:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-a-otf-ud-shin-go-pro: "A-OTF UD Shin Go Pro";
+
+  /* font sizes */
+  --font-size-13xl: 32px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gainsboro: #dbdbdb;
+  --color-darkslategray: #474645;
+  --color-gray: #222;
+  --color-dimgray-100: #5f5e5e;
+  --color-dimgray-200: #505050;
+  --color-steelblue: #0067a2;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+  --br-9xs: 4px;
+}

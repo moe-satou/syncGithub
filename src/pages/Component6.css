@@ -1,0 +1,247 @@
+.div105 {
+  position: absolute;
+  top: 0px;
+  left: -0.5px;
+  background-color: var(--color-black);
+  width: 800px;
+  height: 480px;
+}
+.div106 {
+  position: absolute;
+  top: 4px;
+  left: 10.5px;
+  font-size: var(--font-size-xl);
+}
+.div107 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  background-color: var(--color-black);
+}
+.div108 {
+  position: absolute;
+  width: 100%;
+  top: calc(50% + 68px);
+  right: 0px;
+  left: 0px;
+  background-color: var(--color-darkslategray);
+  height: 2px;
+}
+.div109 {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 0px);
+  right: 0px;
+  left: 0px;
+  background-color: var(--color-darkslategray);
+  height: 2px;
+}
+.div110 {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 68px);
+  right: 0px;
+  left: 0px;
+  background-color: var(--color-darkslategray);
+  height: 2px;
+}
+.p023001-r004 {
+  position: absolute;
+  top: 100px;
+  left: -1px;
+  width: 800px;
+  height: 292px;
+  opacity: 0.5;
+}
+.div112 {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 8px);
+  top: 0px;
+  right: 4px;
+  bottom: 0px;
+  left: 4px;
+  border-radius: var(--br-5xs);
+  background: linear-gradient(180deg, #757575, #302d2c);
+}
+.icon40 {
+  position: absolute;
+  top: calc(50% - 18px);
+  left: calc(50% - 15.42px);
+  width: 30.8px;
+  height: 36px;
+}
+.p000013-r004 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  bottom: 8px;
+  left: 479px;
+  width: 160px;
+  height: 80px;
+}
+.div114 {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 8px);
+  top: 0px;
+  right: 4px;
+  bottom: 0px;
+  left: 4px;
+  border-radius: var(--br-5xs);
+  background: linear-gradient(180deg, #3c3b3c, #0f0e0f);
+}
+.icon41 {
+  position: absolute;
+  top: calc(50% - 17.79px);
+  left: calc(50% - 18.6px);
+  width: 37.2px;
+  height: 35.6px;
+}
+.p000010-r004 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  bottom: 8px;
+  left: -1px;
+  width: 160px;
+  height: 80px;
+}
+.p000014-r004 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  bottom: 8px;
+  left: 159px;
+  width: 160px;
+  height: 80px;
+}
+.p023000-r00-icon4 {
+  position: absolute;
+  top: 48px;
+  left: -1px;
+  width: 800px;
+  height: 52px;
+}
+.div118 {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 8px);
+  top: 0px;
+  right: 4px;
+  bottom: 0px;
+  left: 4px;
+  border-radius: var(--br-5xs);
+  background: linear-gradient(180deg, #1e1e22, #232323);
+}
+.icon43 {
+  position: absolute;
+  height: calc(100% - 28.7px);
+  top: 14.34px;
+  bottom: 14.36px;
+  left: calc(50% - 26px);
+  max-height: 100%;
+  width: 52.3px;
+}
+.p050100-r00 {
+  position: absolute;
+  top: 120px;
+  left: 479px;
+  width: 160px;
+  height: 50px;
+}
+.icon44 {
+  position: absolute;
+  height: calc(100% - 30.2px);
+  top: 15.09px;
+  bottom: 15.11px;
+  left: calc(50% - 20px);
+  max-height: 100%;
+  width: 40.8px;
+}
+.p050111-r00 {
+  position: absolute;
+  top: 120px;
+  right: 1px;
+  width: 160px;
+  height: 50px;
+}
+.p050100-r001 {
+  position: absolute;
+  top: 188px;
+  left: 479px;
+  width: 160px;
+  height: 50px;
+}
+.p050111-r001 {
+  position: absolute;
+  top: 188px;
+  right: 1px;
+  width: 160px;
+  height: 50px;
+}
+.p050100-r002 {
+  position: absolute;
+  top: 256px;
+  left: 479px;
+  width: 160px;
+  height: 50px;
+}
+.p050111-r002 {
+  position: absolute;
+  top: 256px;
+  right: 1px;
+  width: 160px;
+  height: 50px;
+}
+.p050100-r003 {
+  position: absolute;
+  top: 324px;
+  left: 479px;
+  width: 160px;
+  height: 50px;
+}
+.p050111-r003 {
+  position: absolute;
+  top: 324px;
+  right: 1px;
+  width: 160px;
+  height: 50px;
+}
+.div133 {
+  position: absolute;
+  bottom: 23px;
+  left: 370px;
+  text-align: center;
+}
+.p10 {
+  margin: 0;
+}
+.div134 {
+  position: absolute;
+  top: 120px;
+  left: 39px;
+  line-height: 68px;
+}
+.div104 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 480px;
+  max-width: 800px;
+  max-height: 480px;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gainsboro);
+  font-family: var(--font-a-otf-ud-shin-go-pro);
+}
